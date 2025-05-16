@@ -1,5 +1,5 @@
 # The Cyber Shift: Analysing 5 Years of Cyber Attacks
-💪 The trends amoung the most significant global cyber attacks can't just be ignored. 
+💪 The trends in the most significant global cyber attacks can't just be ignored. 
 
 This portfolio analyses the trends between countries in the most significant cyber attacks, ranging from DDoS to Phishing 
 
