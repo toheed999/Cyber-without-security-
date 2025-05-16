@@ -1,15 +1,9 @@
-# The Cyber Shift: Analysing 5 Years of Cyber Attacks-
-Career pivot in progress 💪: from tax compliance to data analytics 🔄
+# The Cyber Shift: Analysing 5 Years of Cyber Attacks
+The trends amoung the most significant global cyber attacks can't just be ignored. 
+This portfolio analyses the trends between countries in the most significant cyber attacks, ranging from DDoS to Phishing 
 
-I'm now halfway through my government-funded Data Skills Bootcamp, building a strong foundation in 
+One standout Insight: 
+While cyberattacks remain a threat, some countries showed a suprising reduction in high impact attacks over the 5 years. 
+In one country, I saw a major decline in attacks specifically targeted at government infrastructure - a trend possibly linked to improved cyber defences or increased investment in national security. 
 
-- SQL 👨‍💻 
-- Excel 📊
-- Tableau 📈
-- Power BI 📉
-
-Over the next few weeks, I'll be diving into Python and building out a GitHub portfolio, tackling real world data projects. I'm deeply focused on transitioning into a data analyst role where I can apply these tools to uncover insights and support smart decision-making. 
-
-Before pivoting, I spent 3 years in tax compliance and earned my Association of Tax Technicians (ATT) qualification. That experience sharpened my attention to detail, structured thinking, and ability to work with large, sensitive datasets - skills I'm now excited to apply in a more tech-focused, analytical space. 
-
-I'm eager to connect with others and learn more about the data world. Lets talk! 💬
+Along the way, each challenge has taught me something new, tackled through my ability to adapt; steered through making the right decisions on the direction my project should go. 
