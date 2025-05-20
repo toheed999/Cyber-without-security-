@@ -1,5 +1,5 @@
 # From Finance to Data — My Journey 📈
-# Hi there 👋
+# Hi there 👋 I'm Toheed, and live in Newcastle 
 Welcome to my GitHub profile!
 
 
