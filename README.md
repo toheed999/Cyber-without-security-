@@ -1,9 +1,9 @@
 # From Finance to Data — My Journey 📈
-# Hi there 👋 I'm Toheed, Newcastle 
+# Hi there 👋 I'm Toheed
 Welcome to my GitHub profile!
 
 
-My name is **Toheed Hussain**, a **Data Analyst** and ** JustIT Data Skills Bootcamp Graduate** with a background in **Tax Compliance**.
+My name is **Toheed Hussain**, a **Data Analyst** in Newcastle and ** JustIT Data Skills Bootcamp Graduate** with a background in **Tax Compliance**.
 
 🚀 I'm passionate about **turning raw data into actionable insights** and am currently **seeking opportunities in data analytics**.
 
